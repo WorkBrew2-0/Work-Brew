@@ -1,7 +1,6 @@
 import * as React from 'react';
 import '../Styles/NavBar.css';
 import { useNavigate } from 'react-router-dom';
-
 import LocalCafeIcon from '@mui/icons-material/LocalCafe';
 import CoffeeTwoToneIcon from '@mui/icons-material/CoffeeTwoTone';
 import CoffeeMakerIcon from '@mui/icons-material/CoffeeMaker';
